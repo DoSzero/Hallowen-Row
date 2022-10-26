@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hallowen Row</string>
+
+    <string name="welcome">Добро пожаловать</string>
+    <string name="name">Имя</string>
+    <string name="start">Начало</string>
+</resources>
